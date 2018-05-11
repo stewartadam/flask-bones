@@ -4,6 +4,8 @@ Flask-Babel==0.11.2
 Flask-Bcrypt==0.7.1
 Flask-Limiter==1.0.1
 Flask-Login==0.4.1
+Flask-Failsafe==0.2
+Flask-Login==0.4.1
 Flask-Mail==0.9.1
 Flask-Migrate==2.1.1
 Flask-RQ2==18.0
